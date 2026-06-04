@@ -251,7 +251,7 @@ style.textContent =`
 `
 document.addEventListener('DOMContentLoaded', function () {
 
-    transaction = JSON.parse(localStorage.getItem('transactions') || '[]');
+
 
     monthlyincome = Number(localStorage.getItem('monthlyincome')) || 55000;
     monthlyExpense = Number(localStorage.getItem('monthlyExpense')) || 25000;
