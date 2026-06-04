@@ -1,4 +1,4 @@
-Expense Tracker
+# 💰 Expense Tracker
 
 A basic web application for managing your money balance.
 
