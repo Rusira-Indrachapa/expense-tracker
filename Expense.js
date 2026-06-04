@@ -1,5 +1,5 @@
 const today = new Date().toISOString().split('T')[0];
-const spendingLimit = 30000;
+const spendingLimit = 50000;
 
 
 let transaction = JSON.parse(localStorage.getItem('transactions') || '[]');
