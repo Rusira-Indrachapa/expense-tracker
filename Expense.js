@@ -10,8 +10,7 @@ if (transaction.length === 0) {
         { id: 2, date: "2026-06-10", amount: -2500, status: "success", type: "expense", category: "Subscription" },
         { id: 3, date: "2026-06-21", amount: -2500, status: "success", type: "expense", category: "Subscription" }
     ];
-}
-    
+}  
 let monthlyincome = Number(localStorage.getItem('monthlyincome')) || 55000;
 let monthlyExpense = Number(localStorage.getItem('monthlyExpense')) || 25000;
 
@@ -251,7 +250,7 @@ style.textContent =`
 `
 document.addEventListener('DOMContentLoaded', function () {
 
-
+   
 
     monthlyincome = Number(localStorage.getItem('monthlyincome')) || 55000;
     monthlyExpense = Number(localStorage.getItem('monthlyExpense')) || 25000;
