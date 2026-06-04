@@ -6,9 +6,9 @@ let transaction = JSON.parse(localStorage.getItem('transactions') || '[]');
 
 if (transaction.length === 0) {
     transaction = [
-        { id: 1, date: "2026-06-10", amount: -2500, status: "success", type: "expense" },
-        { id: 2, date: "2026-06-10", amount: -2500, status: "success", type: "expense" },
-        { id: 3, date: "2026-06-21", amount: -2500, status: "success", type: "expense" }
+        { id: 1, date: "2026-06-10", amount: -2500, status: "success", type: "expense", category: "Subscription" },
+        { id: 2, date: "2026-06-10", amount: -2500, status: "success", type: "expense", category: "Subscription" },
+        { id: 3, date: "2026-06-21", amount: -2500, status: "success", type: "expense", category: "Subscription" }
     ];
 }
     
