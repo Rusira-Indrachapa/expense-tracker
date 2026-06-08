@@ -17,7 +17,19 @@ I made a web application for managing my money, including income and expenses an
 </p>
 
 ---
+## 👀 View Project
 
+<p align="center">
+
+<a href="https://rusira-indrachapa.github.io/expense-tracker/” target="_blank">
+
+Open Expense Tracker Here
+
+</a>
+
+</p>
+
+---
 ## ✨ Features
 
 ✔ I can add income transactions when I get paid 💵
