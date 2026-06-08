@@ -20,13 +20,9 @@ I made a web application for managing my money, including income and expenses an
 ## 👀 View Project
 
 <p align="center">
-
-<a href="https://rusira-indrachapa.github.io/expense-tracker/” target="_blank">
-
-Open Expense Tracker Here
-
-</a>
-
+  <a href="https://rusira-indrachapa.github.io/expense-tracker/" target="_blank">
+    🚀 Open Expense Tracker Here
+  </a>
 </p>
 
 ---
