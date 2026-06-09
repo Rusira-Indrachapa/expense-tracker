@@ -38,21 +38,7 @@ I made a web application for managing my money, including income and expenses an
 
 ---
 
-##📊 Repository Insights
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusira-Indrachapa&theme=react-dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rusira-Indrachapa&theme=radical" />
-
-</p>
-
----
 
 ## 🛠️ Technologies Used
 
